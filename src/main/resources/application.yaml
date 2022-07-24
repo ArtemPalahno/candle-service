@@ -1,0 +1,8 @@
+stock:
+  websocket:
+    uri: ws://b-mocks.dev.app.getbaraka.com:9989
+
+candle:
+  unit:
+    type: minutes
+    count: 1
